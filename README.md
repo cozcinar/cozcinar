@@ -58,8 +58,6 @@ I have extensive experience in the following domains:
 
 I'm always open to discussing collaborations, research, and AI-driven innovation. Connect with me here:
 
-- **LinkedIn:** [Cagri Ozcinar](https://www.linkedin.com/in/cagri-ozcinar)
-- **Website:** [Neural Bridge](https://neuralbridge.org/)  
 - **Email:** [cagriozcinar@gmail.com](mailto:cagriozcinar@gmail.com)
 
 ---
